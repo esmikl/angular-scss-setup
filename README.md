@@ -1,6 +1,12 @@
 # AngularScssSetup
+A basic Angular file set up to demonstrate the usage of SCSS partials and imports in an Angular application.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
+
+## Getting Started
+1. Clone the project into your local workspace.
+2. `cd` into the project and run `npm install`.
+3. To start the local server, run `ng serve`.
 
 ## Development server
 
