@@ -1,0 +1,11 @@
+@import 'shared';
+
+footer {
+  background-color: $primary-theme-color;
+  color: white;
+  padding: 1rem;
+
+  @include media-breakpoint-up(md) {
+    background-color: $secondary-theme-color;
+  }
+}

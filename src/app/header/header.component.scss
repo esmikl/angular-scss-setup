@@ -1,0 +1,12 @@
+@import 'shared';
+
+header {
+  background-color: $primary-theme-color;
+  color: white;
+  font-size: 1.2rem;
+  padding: 1rem;
+
+  @include media-breakpoint-up(md) {
+    background-color: $secondary-theme-color;
+  }
+}
